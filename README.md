@@ -8,6 +8,7 @@ To do inference on test set, run
 
 ```
 pip install transformers
+pip install datasets
 python run_inference.py
 ```
 

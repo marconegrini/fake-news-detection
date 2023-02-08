@@ -47,4 +47,4 @@ outputs = model(**test_encodings)
 predictions = outputs.logits.argmax(-1)
 
 print("Performances on test set:")
-print(compute_metrics(predictions, test_y))
+print(compute_metrics((predictions, test_y)))

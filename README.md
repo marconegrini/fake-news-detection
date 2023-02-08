@@ -1,4 +1,4 @@
-# fake-news-detection
+# Fake News Detection with Bert Model
 
 Download model and model's configuration file from https://drive.google.com/drive/folders/1x_-epXUnGVwtX_jt2viy8KwwB3th8vUT?usp=share_link. Store them in a new `/model` folder.
 
